@@ -16,7 +16,14 @@ This project is a webpage designed to represents a generic company's home page w
 
 **Front-end:** HTML5, CSS3
 
+## Github
 
+https://github.com/okflea
+
+
+## Hosted project link
+
+https://mini-proj-newton-okflea.netlify.app
 
   
 
